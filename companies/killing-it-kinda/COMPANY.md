@@ -30,6 +30,17 @@ Killing It Kinda is for the little things in life. It notices the beauty and hum
 
 Consistency beats volume. When something slips, the plan shrinks instead of the founder burning out.
 
+## Product lines
+
+Cards and printables for the little things. All words and designs are the founder's own; AI tools only assist with layout and images.
+
+| Etsy section | Format |
+| --- | --- |
+| Bittersweet Cards | Printed card packs, made and shipped by a print-on-demand partner |
+| Poem Cards | Printable card sets with lines from the founder's poems |
+| Digital E-Cards | Image cards to send by text or email |
+| Printables & Planners | Printable PDFs, such as the Holiday Gift Planner |
+
 ## Organization
 
 Work is organized by platform and by product:

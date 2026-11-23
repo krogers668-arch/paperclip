@@ -50,7 +50,7 @@ Change times or the timezone in `.paperclip.yaml`.
 - Founder kickoff and 30-day plan (Chief of Staff)
 - Substack audit and 8-week topic list (Content & Marketing Lead)
 - Low-pressure TikTok launch plan with the first 6 filming packages (Content & Marketing Lead)
-- Etsy shop audit (Etsy & Sales Lead)
+- Finish the Etsy relaunch: clean up old-shop leftovers and publish the first listings (Etsy & Sales Lead)
 - First 5 product ideas (Product Designer)
 
 ## Getting started

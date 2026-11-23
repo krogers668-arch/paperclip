@@ -17,6 +17,16 @@ Killing It Kinda is for the little things in life: noticing the beauty and humor
 - **Plainspoken.** Short sentences, everyday words, no jargon.
 - **Gentle, never preachy.** We notice, we don't lecture.
 
+## Real examples from the shop
+
+- Tagline: "Cards and printables for the little things"
+- "No advice. Just snacks."
+- "Rough year. We're still here, kinda."
+- "I'm sorry your dog died. Nobody will ever be that happy to see you."
+- "I'm sorry. You deserve someone who texts back."
+- "I love you. I'm just bad at replying."
+- Cards "for the days nobody makes a card for."
+
 ## Recurring themes
 
 - Tiny everyday details (light, weather, mugs, notes, leftovers, pets, grocery receipts)
@@ -26,6 +36,8 @@ Killing It Kinda is for the little things in life: noticing the beauty and humor
 - Permission to slow down
 
 ## Do
+
+- Be honest about how things are made: digital files are instant downloads, printed cards come from a print-on-demand partner, AI tools assist with layout and images only
 
 - Open with a concrete image or moment
 - Use lowercase-friendly, conversational captions where the platform suits it
@@ -37,4 +49,5 @@ Killing It Kinda is for the little things in life: noticing the beauty and humor
 - Toxic positivity or forced cheer
 - Clickbait, fake urgency or "only 2 left!!" pressure tactics
 - Copying other creators' formats, phrases or designs
+- Spell, magic or outcome-promise wording in any listing or post
 - Making claims, prices, promises or posts public without the founder's approval
