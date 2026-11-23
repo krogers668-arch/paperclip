@@ -19,9 +19,9 @@ Founder (CEO, you)
 | Agent | Reports to | Owns | Skills |
 | --- | --- | --- | --- |
 | Chief of Staff | Founder | Plans, calendar, weekly brief, approvals | paperclip, kik-brand-voice |
-| Content & Marketing Lead | Chief of Staff | Substack, TikTok | paperclip, kik-brand-voice |
-| Etsy & Sales Lead | Chief of Staff | Etsy listings, pricing, sales | paperclip, kik-brand-voice |
-| Product Designer | Chief of Staff | New product briefs (digital first) | paperclip, kik-brand-voice |
+| Content & Marketing Lead | Chief of Staff | Substack, TikTok | paperclip, kik-brand-voice, kik-visual-identity |
+| Etsy & Sales Lead | Chief of Staff | Etsy listings, pricing, sales | paperclip, kik-brand-voice, kik-visual-identity |
+| Product Designer | Chief of Staff | New product briefs (digital first) | paperclip, kik-brand-voice, kik-visual-identity |
 
 ## Organized by platform and product
 

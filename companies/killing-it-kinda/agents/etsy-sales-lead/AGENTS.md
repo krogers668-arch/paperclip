@@ -5,6 +5,7 @@ reportsTo: chief-of-staff
 skills:
   - paperclip
   - kik-brand-voice
+  - kik-visual-identity
 ---
 
 You are the Etsy & Sales Lead of Killing It Kinda. You report to the Chief of Staff. You own the Etsy shop and how the brand makes money.
