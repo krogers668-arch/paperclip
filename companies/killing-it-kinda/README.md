@@ -47,11 +47,13 @@ Change times or the timezone in `.paperclip.yaml`.
 
 ## Starter tasks
 
-- Founder kickoff and 30-day plan (Chief of Staff)
-- Substack audit and 8-week topic list (Content & Marketing Lead)
-- Low-pressure TikTok launch plan with the first 6 filming packages (Content & Marketing Lead)
-- Finish the Etsy relaunch: clean up old-shop leftovers and publish the first listings (Etsy & Sales Lead)
-- First 5 product ideas (Product Designer)
+The starter tasks build on work the founder has already done (brand look, logo direction, shop copy, card mockups and a product catalog) instead of redoing it.
+
+- Founder kickoff and 30-day plan, asking only what is still open (Chief of Staff)
+- Substack 8-week topic list using the existing letter template (Content & Marketing Lead)
+- Low-pressure TikTok launch plan with the first 6 filming packages, voiceover over art (Content & Marketing Lead)
+- Finish the Etsy relaunch from the drafted shop copy and publish the first listings (Etsy & Sales Lead)
+- Rank the product catalog and pick the next product to test (Product Designer)
 
 ## Getting started
 

@@ -13,6 +13,8 @@ goals:
 
 Killing It Kinda is for the little things in life. It notices the beauty and humor in tiny, everyday details and embraces the bittersweet feeling of being alive. Not crushing it. Killing it, kinda.
 
+The feeling is a sleepover with your girlfriends: cozy, funny, a little confessional. Brand look, logo and approved copy live in the `kik-brand-voice` skill.
+
 ## How the company runs
 
 - **The founder is the CEO and final decision maker.** Agents propose, draft and prepare. The founder approves anything that is published, priced, spent or sent in the brand's name.
@@ -32,7 +34,7 @@ Consistency beats volume. When something slips, the plan shrinks instead of the 
 
 ## Product lines
 
-Cards and printables for the little things. All words and designs are the founder's own; AI tools only assist with layout and images.
+Cards and printables for the little things. All words and designs are the founder's own; AI tools only assist with layout and images. Prices are the founder's working ideas and still need approval.
 
 | Etsy section | Format |
 | --- | --- |
@@ -40,6 +42,39 @@ Cards and printables for the little things. All words and designs are the founde
 | Poem Cards | Printable card sets with lines from the founder's poems |
 | Digital E-Cards | Image cards to send by text or email |
 | Printables & Planners | Printable PDFs, such as the Holiday Gift Planner |
+
+## Products
+
+### Drafted for the shop (listing copy exists)
+
+| Product | Section | Format | Status | Price idea |
+| --- | --- | --- | --- | --- |
+| Bittersweet E-Cards, set of 8 | Digital E-Cards | 8 PNGs, 1084 x 1459 px, gold-trimmed postage stamp design: hard day, hard year, pet loss, breakup, late reply, happy belated, big win, no reason | Card art mocked up; publish first | $8 |
+| Holiday Gift Planner | Printables & Planners | 10-page US Letter PDF: gift list, budget, shopping and wrapping trackers, gift tags | Copy drafted; PDF still to finalize | $6 |
+| Poem Cards, set of 8 | Poem Cards | Printable PDF, 5 x 7 in, 8 fronts plus a lined back: anniversary, wedding, mother, friend, creative, new beginning, the one who stayed, no reason at all | Card art mocked up; poem lines still to pick | $9 |
+| Bittersweet Card Pack, 5 cards | Bittersweet Cards | Printed cardstock with envelopes, blank inside: hard day, hard year, pet, breakup, late reply | Waiting on a print sample for size, shipping and cost | $18–22 |
+
+### Designed, not yet drafted as a listing
+
+| Product | Format | Notes |
+| --- | --- | --- |
+| Thank-you cards, printable set of 4 | Printable PDF | "Thank you for being you", "with gratitude"; Etsy thumbnail mocked up |
+| Birth-chart poem, Mini | Custom written PDF, about 16 lines from sun, moon and rising signs, about 7-day turnaround, one small revision | $35 regular; founding batch of the first 5 at $20 in exchange for an optional testimonial. Keepsake, never a prediction |
+| Birth-chart poem, Full | Custom written PDF, 30+ lines, short chart notes, print-ready art | $65 |
+
+### Ideas in the pipeline
+
+| Idea | Format | Notes |
+| --- | --- | --- |
+| Digital planner for iPad | Hyperlinked Goodnotes PDF, blank and undated or 2027 | Tabs for months, a creative focus, meals and notes; monthly, weekly-reset and daily pages. Built as a fresh blank file, never from the founder's own filled-in planner |
+| Moon and sky planner printable | Procreate-illustrated monthly pages | $5–9; a winter or new-year moon planner is the first seasonal drop |
+| Poem print | One poem with the founder's art | $10–25 |
+| "Letting go" poem download | Reflective printable | Must never read as a spell or promise a result |
+| Cozy Home & Garden collection | Print-on-demand wall prints, totes, kitchen prints or tea towels, and stickers from the founder's Procreate art | About 6 prints and 4 sticker designs (hand-lettered "Lucky", "Lovely" with tulips, "Thank You" on clouds, a pink cake). Check resolution and any texture licenses first |
+| Cozy Home Coloring Pages | Digital coloring bundle | Two line-art pages exist; needs 8 to 10 more in the same style |
+| Starter mini-zine | 8 pages: 3 poems and art | Free gift for Substack signups |
+| Gift curation | Personal gift list for an occasion: 5–8 picks fit to a budget plus a short note-card poem | $30–50; sell directly first and check Etsy's services rules before listing there |
+| Crochet drops | 1–2 handmade pieces a season | Priced by materials and time; highest effort per item |
 
 ## Organization
 
