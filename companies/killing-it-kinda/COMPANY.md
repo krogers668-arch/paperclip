@@ -21,6 +21,20 @@ The feeling is a sleepover with your girlfriends: cozy, funny, a little confessi
 - **The Chief of Staff runs the week.** They turn the founder's direction into tasks, keep the content calendar on track and send a weekly brief.
 - **Specialists do the work and report back** to the Chief of Staff (hub-and-spoke).
 
+## The 90-day plan
+
+Goal: first sales, and a weekly rhythm that runs while the founder creates.
+
+| Milestone | Target |
+| --- | --- |
+| M0 Setup: team imported, budget caps set | This week |
+| M1 Etsy relaunch: shop cleaned up, logo live, E-Cards published | First week of December |
+| M2 Founding batch: five birth-chart poems sold and delivered | Early December to mid-January |
+| M3 Voice back on: Substack restarts, TikTok launches | January |
+| M4 Next product: chosen, built and listed | February |
+
+Each milestone's issues live in the projects below, labelled M0 to M4 with their blockers set. The team runs in **lean mode**: Sonnet for every agent, about $25 a month in caps, and only the Monday brief on a schedule. The founder spends about 3 hours a week on business tasks; the rest is for creating.
+
 ## Rhythm (gentle by design)
 
 | Platform | Cadence |
@@ -28,9 +42,9 @@ The feeling is a sleepover with your girlfriends: cozy, funny, a little confessi
 | Substack | 1 post per week |
 | TikTok | 2 posts per week, starting faceless (hands, objects, voiceover, text on screen) |
 | Etsy | 1 new listing or listing refresh per week |
-| Planning | Weekly brief every Monday, monthly plan on the 1st |
+| Planning | Weekly brief every Monday, with a monthly look-back on the first Monday |
 
-Consistency beats volume. When something slips, the plan shrinks instead of the founder burning out.
+These are targets once M3 starts. Until then, the Etsy relaunch and the founding batch come first. Consistency beats volume. When something slips, the plan shrinks instead of the founder burning out.
 
 ## Product lines
 

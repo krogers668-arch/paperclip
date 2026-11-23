@@ -33,27 +33,25 @@ Founder (CEO, you)
 | Etsy Shop | Etsy & Sales Lead | Listings, pricing, shop health |
 | Product Development | Product Designer | One task per product idea |
 
-## Gentle rhythm
+## Lean mode
 
-| Routine | When (US Eastern) | Agent |
+The team is set up to use as little as possible while still moving the business forward:
+
+- Every agent runs on Sonnet (set in `.paperclip.yaml`), with monthly caps of $10 for the Chief of Staff and $5 for each specialist.
+- Only one routine runs on a schedule: the **weekly founder brief**, Mondays 8am US Eastern. The Chief of Staff then starts the single highest-priority unblocked issue and assigns it.
+- Specialists have no timers. They wake when the Chief of Staff assigns them an issue.
+
+## 90-day plan
+
+| Milestone | Target | Issues |
 | --- | --- | --- |
-| Weekly founder brief | Mondays 8am | Chief of Staff |
-| Substack draft | Tuesdays 9am | Content & Marketing Lead |
-| 2 TikTok filming packages | Wednesdays 9am | Content & Marketing Lead |
-| Etsy listing or refresh | Thursdays 9am | Etsy & Sales Lead |
-| Monthly plan | 1st of the month, 9am | Chief of Staff |
+| M0 Setup | This week | Import the team and set the caps (founder) |
+| M1 Etsy relaunch | First week of December | Shop cleanup pack, E-Cards listing, icon and banner, publish (founder), holiday planner decision, poem lines (founder), Poem Cards |
+| M2 Founding batch | December to mid-January | Payment and form, poem template, outreach (founder), order tracker, batch review |
+| M3 Voice back on | January | Substack topic list, first letter, TikTok launch plan, first two posts (founder) |
+| M4 Next product | February | Rank the catalog, build the winner |
 
-Change times or the timezone in `.paperclip.yaml`.
-
-## Starter tasks
-
-The starter tasks build on work the founder has already done (brand look, logo direction, shop copy, card mockups and a product catalog) instead of redoing it.
-
-- Founder kickoff and 30-day plan, asking only what is still open (Chief of Staff)
-- Substack 8-week topic list using the existing letter template (Content & Marketing Lead)
-- Low-pressure TikTok launch plan with the first 6 filming packages, voiceover over art (Content & Marketing Lead)
-- Finish the Etsy relaunch from the drafted shop copy and publish the first listings (Etsy & Sales Lead)
-- Rank the product catalog and pick the next product to test (Product Designer)
+Founder tasks have no assignee; the Chief of Staff lists them in the Monday brief, three at most, each 30 minutes or less. Labels (M0 to M4), priorities and blockers are set in `.paperclip.yaml`.
 
 ## Getting started
 
