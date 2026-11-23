@@ -29,23 +29,45 @@ Build on this list. Don't re-propose what is already here; move items forward, c
 2. Holiday Gift Planner (10-page printable PDF; file still to finalize)
 3. Poem Cards, set of 8 (printable 5 x 7 with a lined back; poem lines still to pick)
 4. Bittersweet Card Pack, 5 printed cards (waiting on a print-on-demand sample)
+5. Digital iPad planner (hyperlinked Goodnotes PDF, blank and undated or 2027; title, description and tags drafted, blank file still to build)
 
 **Designed, not yet listed:**
 
-5. Thank-you cards, printable set of 4
-6. Birth-chart poem, Mini (about 16 lines) and Full (30+ lines with chart notes and art). A founding batch of 5 Minis at a lower price comes first. Keepsakes, never predictions.
+6. Thank-you cards, printable set of 4
+7. Birth-chart poem, Mini (about 16 lines) and Full (30+ lines with chart notes and art). A founding batch of 5 Minis at a lower price comes first. A founding batch kit already exists: offer copy, a 6-question intake form, an outreach message, fulfillment steps and a first-five checklist. Keepsakes, never predictions.
 
 **Ideas:**
 
-7. Digital iPad planner (hyperlinked, blank and undated or 2027)
-8. Moon and sky planner printable, with a winter or new-year seasonal drop
+8. Moon and sky (astrological) planner: moon phases, the moon's sign and a short reflective note, with a winter or new-year seasonal drop
 9. Poem prints
 10. "Letting go" poem download (reflective, never a spell)
 11. Cozy Home & Garden print-on-demand collection: wall prints, totes, kitchen prints, stickers
 12. Cozy Home Coloring Pages bundle
 13. Starter mini-zine (free Substack signup gift)
-14. Gift curation service
-15. Seasonal crochet drops
+14. Custom cards (the buyer's own occasion or words, by Etsy message)
+15. Gift curation service
+16. Seasonal crochet drops
+
+### The founder's art, already ranked for print-on-demand
+
+Use this ranking for the Cozy Home & Garden collection instead of re-reviewing the files.
+
+| Rank | Piece | Best as |
+| --- | --- | --- |
+| 1 | Hanging chair porch scene | Wall art, poster, tote |
+| 2 | Garden gate and stone path | Wall art, poster |
+| 3 | Green front door with planters | Wall art, tote |
+| 4 | Lemons on cream | Kitchen print, tea towel |
+| 5 | Guava corners | Repeat pattern, kitchen print |
+| 6 | Beach fence watercolor | Coastal wall art |
+| 7 | Pink tiered cake | Stickers, birthday cards |
+| 8 | "Thank You" on clouds | Cards, stickers, packaging |
+| 9 | "Lucky" lettering | Stickers, mug |
+| 10 | "Lovely" with tulips | Stickers, cards |
+| Coloring | Door line art and living room line art | Start of the coloring bundle |
+| Hold | Kitchen sketch, pink flower, gold "Love", pink stripes | Finish first, or use as backgrounds (stripes for planner pages) |
+
+Smaller files (the pink flower, the gold "Love", the pink stripes) may be too low-resolution for large prints.
 
 ## Guardrails for these products
 

@@ -34,7 +34,9 @@ Pick from these before writing new lines. All are drafts the founder can still c
 
 | Where | Line |
 | --- | --- |
-| Logo lockup, Substack header, live Etsy tagline | a letter for the little things |
+| Logo lockup, Substack header | a letter for the little things |
+| Live Etsy tagline (current) | a letter for the little things · cards & stationery |
+| Shop name fallback, if the name is ever taken | Killing it Kinda Studio |
 | Etsy tagline and About headline | Cards and printables for the little things |
 | Brand line (draft, not final) | Small things, made so you feel seen, cared for, and appreciated. |
 | Brand tagline (from the strategy) | Cozy poems, sky notes, and gifts from a friend. |
@@ -42,6 +44,14 @@ Pick from these before writing new lines. All are drafts the founder can still c
 | Card mockups, stamp cards | bittersweet cards in postage stamp style |
 | Card mockups, poem cards | lines from your own poems, one card for each moment |
 | Shop bio line | I write every card myself, usually about the days nobody makes a card for. |
+| About section | I make things so people feel seen, cared for, and appreciated. A lot of what I make is a little bittersweet and a little funny, because that's how life actually feels. |
+| Substack welcome promise | a cozy little corner of your inbox |
+| E-card listing opener | For the days that need a card but can't wait for the mail. |
+| Printed card pack opener | Cards for the moments in between. |
+| Poem card listing opener | Words for the people who mean the most. |
+| Digital planner opener | One small thing at a time. |
+| Birth-chart poem offer | A poem written just for them, from the sky they were born under. It's a keepsake, not a prediction. |
+| Brand board note | One look, every product: soft color, one serif, and a lot of air. |
 | Thank-you cards | Thank you for being you · with gratitude |
 | Substack post series (placeholder name) | Little Things · 01, 02, 03 … |
 
@@ -57,6 +67,12 @@ Pick from these before writing new lines. All are drafts the founder can still c
 - Happy belated
 
 Poem cards and social posts use short lines from the founder's own poems. Ask the founder which lines to use; never invent "poem lines" and present them as hers.
+
+Lines the founder already used in the brand mockups (from her poems "Autumn" and "Edge"):
+
+- "the crackle of a stepped-on leaf"
+- "the beauty and sadness of one image"
+- "A large figure waved at her / from the edge of the dark // She waved back / and then went inside"
 
 ## The look
 
@@ -75,6 +91,7 @@ Poem cards and social posts use short lines from the founder's own poems. Ask th
 | Deep blue | `#345D8E` | Small text, captions, links |
 | Pale powder | `#E1ECF7` | Stamp and avatar grounds |
 | Pale blush | `#F9E2E3` | Light card grounds |
+| Line blue | `#C4D5E6` | Thin borders on cream cards and swatches |
 
 Gold only in tiny doses, like a clasp on something carefully chosen. Blush and powder blue carry the sleepover softness.
 
@@ -87,7 +104,7 @@ Gold only in tiny doses, like a clasp on something carefully chosen. Blush and p
 ### Logo direction
 
 - **Chosen direction: Owl on a Stamp.** A blush-pink sleepy owl (closed crescent eyes, small gold beak, powder-blue cheeks, a gold sparkle) on a pale powder-blue postage stamp with a perforated gold edge, with "kinda." in Lora italic at the bottom of the stamp.
-- **Wordmark:** "Killing it *kinda*." in Lora: "Killing it" in navy ink, "kinda" in French blue italic, and a **gold period, which is the signature**. Tagline underneath in Poppins Light: "a letter for the little things".
+- **Wordmark:** "Killing it *kinda*." in Lora (regular, or medium 500 for the refined large version with a short blush rule under it): "Killing it" in navy ink, "kinda" in French blue italic, and a **gold period, which is the signature**. Tagline underneath in Poppins Light: "a letter for the little things".
 - **Avatar (TikTok and Etsy icon):** the owl alone on a pale powder circle with a thin gold ring. It must read at 48 px.
 - **Horizontal lockup** for banners and headers: small stamp to the left of the wordmark.
 - **Working icon until the owl is live:** the italic "k" mark (also "k." monogram on blush or navy).

@@ -51,6 +51,7 @@ Cards and printables for the little things. All words and designs are the founde
 | --- | --- | --- | --- | --- |
 | Bittersweet E-Cards, set of 8 | Digital E-Cards | 8 PNGs, 1084 x 1459 px, gold-trimmed postage stamp design: hard day, hard year, pet loss, breakup, late reply, happy belated, big win, no reason | Card art mocked up; publish first | $8 |
 | Holiday Gift Planner | Printables & Planners | 10-page US Letter PDF: gift list, budget, shopping and wrapping trackers, gift tags | Copy drafted; PDF still to finalize | $6 |
+| Digital iPad planner | Printables & Planners | Hyperlinked Goodnotes PDF, blank and undated or 2027: tabs for months, Job Hunt, Creative, Meals and Notes; monthly page (one creative focus, income goal, habits), weekly reset, daily pages ending in "one good thing today" | Title, description and 13 tags drafted; blank file still to build from the layout, never from the founder's filled-in copy | Founder to set after checking similar planners |
 | Poem Cards, set of 8 | Poem Cards | Printable PDF, 5 x 7 in, 8 fronts plus a lined back: anniversary, wedding, mother, friend, creative, new beginning, the one who stayed, no reason at all | Card art mocked up; poem lines still to pick | $9 |
 | Bittersweet Card Pack, 5 cards | Bittersweet Cards | Printed cardstock with envelopes, blank inside: hard day, hard year, pet, breakup, late reply | Waiting on a print sample for size, shipping and cost | $18–22 |
 
@@ -66,13 +67,13 @@ Cards and printables for the little things. All words and designs are the founde
 
 | Idea | Format | Notes |
 | --- | --- | --- |
-| Digital planner for iPad | Hyperlinked Goodnotes PDF, blank and undated or 2027 | Tabs for months, a creative focus, meals and notes; monthly, weekly-reset and daily pages. Built as a fresh blank file, never from the founder's own filled-in planner |
-| Moon and sky planner printable | Procreate-illustrated monthly pages | $5–9; a winter or new-year moon planner is the first seasonal drop |
+| Moon and sky (astrological) planner | Procreate-illustrated monthly pages with moon phases, the moon's sign and a short reflective energy note | $5–9; a winter or new-year moon planner is the first seasonal drop. Reflection, never prediction |
 | Poem print | One poem with the founder's art | $10–25 |
 | "Letting go" poem download | Reflective printable | Must never read as a spell or promise a result |
-| Cozy Home & Garden collection | Print-on-demand wall prints, totes, kitchen prints or tea towels, and stickers from the founder's Procreate art | About 6 prints and 4 sticker designs (hand-lettered "Lucky", "Lovely" with tulips, "Thank You" on clouds, a pink cake). Check resolution and any texture licenses first |
+| Cozy Home & Garden collection | Print-on-demand wall prints, totes, kitchen prints or tea towels, and stickers from the founder's Procreate art | About 6 prints and 4 sticker designs; the art is already ranked (see the Product Designer's instructions). Printify or Printful, still to pick. Check resolution and any texture licenses first |
 | Cozy Home Coloring Pages | Digital coloring bundle | Two line-art pages exist; needs 8 to 10 more in the same style |
 | Starter mini-zine | 8 pages: 3 poems and art | Free gift for Substack signups |
+| Custom cards | A card with the buyer's own occasion or words, by Etsy message | The shop FAQ already offers this; price per request until demand is clear |
 | Gift curation | Personal gift list for an occasion: 5–8 picks fit to a budget plus a short note-card poem | $30–50; sell directly first and check Etsy's services rules before listing there |
 | Crochet drops | 1–2 handmade pieces a season | Priced by materials and time; highest effort per item |
 
