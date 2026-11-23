@@ -1,0 +1,27 @@
+schema: paperclip/v1
+routines:
+  weekly-brief:
+    triggers:
+      - kind: schedule
+        cronExpression: "0 8 * * 1"
+        timezone: America/New_York
+  monthly-plan:
+    triggers:
+      - kind: schedule
+        cronExpression: "0 9 1 * *"
+        timezone: America/New_York
+  weekly-substack-post:
+    triggers:
+      - kind: schedule
+        cronExpression: "0 9 * * 2"
+        timezone: America/New_York
+  weekly-tiktok-packages:
+    triggers:
+      - kind: schedule
+        cronExpression: "0 9 * * 3"
+        timezone: America/New_York
+  weekly-etsy-listing:
+    triggers:
+      - kind: schedule
+        cronExpression: "0 9 * * 4"
+        timezone: America/New_York
