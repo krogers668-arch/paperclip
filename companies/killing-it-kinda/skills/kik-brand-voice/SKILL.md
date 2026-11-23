@@ -38,7 +38,6 @@ Killing It Kinda is for the little things in life: noticing the beauty and humor
 ## Do
 
 - Be honest about how things are made: digital files are instant downloads, printed cards come from a print-on-demand partner, AI tools assist with layout and images only
-
 - Open with a concrete image or moment
 - Use lowercase-friendly, conversational captions where the platform suits it
 - End with a soft invitation ("what's your little thing today?")
