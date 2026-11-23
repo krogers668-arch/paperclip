@@ -4,6 +4,13 @@ assignee: chief-of-staff
 project: operations
 ---
 
-Prepare a short kickoff questionnaire for the founder (max 10 questions) covering: current Substack and Etsy status and links, what's working, what feels hard, available time per week, monthly budget comfort, and any no-go topics.
+A lot is already decided. Don't ask the founder about it again:
 
-Once answered, write a first 30-day plan across Substack, TikTok and Etsy at the gentle cadence (Substack 1x/week, TikTok 2x/week, Etsy 1 listing or refresh per week) and assign the first week of work to the team.
+- **Brand:** name, mission, voice, colors, fonts, logo direction and approved copy are in `kik-brand-voice`.
+- **Products:** the catalog and its status are in `COMPANY.md`. Four listings are drafted, two more products are designed.
+- **Etsy:** the relaunch is already a starter task for the Etsy & Sales Lead.
+- **Rhythm:** the weekly cadence is in `COMPANY.md`.
+
+1. Send a short kickoff questionnaire (max 6 questions) covering only what is still open: the Substack link and latest stats, hours available per week for the brand, monthly budget comfort, no-go topics, whether the final tagline is decided, and which two or three things matter most this month.
+2. Once answered, write a 30-day plan that builds on the existing work, in this order: get the two digital listings live, run the birth-chart poem founding batch (5 orders), keep the Substack going, then start TikTok. Keep the gentle cadence and shrink it if the founder's hours are tight.
+3. Assign the first week of work to the team.
