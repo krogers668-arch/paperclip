@@ -8,5 +8,5 @@ Using only the founder's eight lines, specify the Poem Cards PDF (5 x 7 in front
 
 **Done when:**
 - The file plan lists each card's label, line and layout
-- The listing (title, description, 13 tags, $9 price idea) is final and ready to paste
+- The listing (title, description, 13 tags, approved $7 price) is final and ready to paste
 - No line appears that the founder didn't provide
