@@ -1,0 +1,87 @@
+schema: paperclip/v1
+
+# Lean mode: Sonnet for every agent, small monthly caps (about $25 total),
+# and only the Monday brief runs on a schedule. Agents wake when assigned.
+agents:
+  chief-of-staff:
+    budgetMonthlyCents: 1000
+    adapter:
+      type: claude_local
+      config:
+        model: claude-sonnet-5-5
+        effort: medium
+  content-marketing-lead:
+    budgetMonthlyCents: 500
+    adapter:
+      type: claude_local
+      config:
+        model: claude-sonnet-5-5
+        effort: low
+  etsy-sales-lead:
+    budgetMonthlyCents: 500
+    adapter:
+      type: claude_local
+      config:
+        model: claude-sonnet-5-5
+        effort: low
+  product-designer:
+    budgetMonthlyCents: 500
+    adapter:
+      type: claude_local
+      config:
+        model: claude-sonnet-5-5
+        effort: low
+
+routines:
+  weekly-brief:
+    triggers:
+      - kind: schedule
+        cronExpression: "0 8 * * 1"
+        timezone: America/New_York
+
+# Milestone labels, priority and order. The Chief of Staff works the
+# highest-priority unblocked issue first.
+tasks:
+  m0-setup: { labels: [M0 Setup], priority: critical }
+  m1-shop-cleanup-pack: { labels: [M1 Etsy relaunch], priority: high }
+  m1-ecards-listing-pack: { labels: [M1 Etsy relaunch], priority: high }
+  m1-logo-files: { labels: [M1 Etsy relaunch], priority: high }
+  m1-publish-shop:
+    labels: [M1 Etsy relaunch]
+    priority: high
+    blockedBy: [m1-shop-cleanup-pack, m1-ecards-listing-pack, m1-logo-files]
+  m1-holiday-planner-decision: { labels: [M1 Etsy relaunch], priority: high }
+  m1-poem-lines: { labels: [M1 Etsy relaunch], priority: medium }
+  m1-poem-cards-pack:
+    labels: [M1 Etsy relaunch]
+    priority: medium
+    blockedBy: [m1-poem-lines]
+  m2-payment-and-form: { labels: [M2 Founding batch], priority: high }
+  m2-poem-template: { labels: [M2 Founding batch], priority: medium }
+  m2-outreach:
+    labels: [M2 Founding batch]
+    priority: medium
+    blockedBy: [m2-payment-and-form, m2-poem-template]
+  m2-founding-batch-tracker:
+    labels: [M2 Founding batch]
+    priority: medium
+    blockedBy: [m2-outreach]
+  m2-batch-review:
+    labels: [M2 Founding batch]
+    priority: low
+    blockedBy: [m2-founding-batch-tracker]
+  substack-audit-and-ideas: { labels: [M3 Voice back on], priority: medium }
+  m3-first-letter:
+    labels: [M3 Voice back on]
+    priority: medium
+    blockedBy: [substack-audit-and-ideas]
+  tiktok-launch-plan: { labels: [M3 Voice back on], priority: medium }
+  m3-first-posts:
+    labels: [M3 Voice back on]
+    priority: low
+    blockedBy: [tiktok-launch-plan]
+  first-product-ideas: { labels: [M4 Next product], priority: low }
+  m4-build-next-product:
+    labels: [M4 Next product]
+    priority: low
+    blockedBy: [first-product-ideas]
