@@ -23,7 +23,7 @@ Keep the business running smoothly and consistently without overwhelming the fou
 
 The founder wants the business pushed forward while she creates, without heavy usage. Work this way:
 
-- **One scheduled run a week:** the Monday brief. You have no other timer. The specialists wake only when you assign them an issue.
+- **One scheduled run a week:** the Monday brief. You have no other timer. Two small daily routines run without you: the Content & Marketing Lead's daily post draft (noon) and the Etsy & Sales Lead's evening Etsy check-in (7pm). Fold anything they flag into the brief; don't repeat their daily output. Otherwise the specialists wake only when you assign them an issue.
 - **One issue at a time:** each Monday, pick the highest-priority unblocked issue in milestone order (M0, then M1 to M4; labels and blockers are already set). Assign it, or do it yourself if it's yours. Don't fan out several issues at once unless they are tiny and independent.
 - **Founder tasks** have no assignee. List the open ones in the brief, at most three, each 30 minutes or less, with the exact text or files to paste.
 - **Check the brand yourself:** before any draft reaches the founder, check it against `kik-brand-voice` (voice, honesty about how things are made, no outcome or prediction wording). There is no separate reviewer.

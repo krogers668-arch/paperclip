@@ -1,7 +1,8 @@
 schema: paperclip/v1
 
-# Lean mode: Sonnet for every agent, small monthly caps (about $25 total),
-# and only the Monday brief runs on a schedule. Agents wake when assigned.
+# Lean mode: Sonnet for every agent, small monthly caps (about $33 total).
+# Three routines run on a schedule: the Monday brief, a daily post draft and
+# an evening Etsy check-in. Otherwise agents wake when assigned.
 agents:
   chief-of-staff:
     budgetMonthlyCents: 1000
@@ -11,14 +12,14 @@ agents:
         model: claude-sonnet-5-5
         effort: medium
   content-marketing-lead:
-    budgetMonthlyCents: 500
+    budgetMonthlyCents: 1000
     adapter:
       type: claude_local
       config:
         model: claude-sonnet-5-5
         effort: low
   etsy-sales-lead:
-    budgetMonthlyCents: 500
+    budgetMonthlyCents: 800
     adapter:
       type: claude_local
       config:
@@ -37,6 +38,18 @@ routines:
     triggers:
       - kind: schedule
         cronExpression: "0 8 * * 1"
+        timezone: America/New_York
+  # Daily, noon Eastern: one TikTok or Substack draft for the founder to approve.
+  daily-post-draft:
+    triggers:
+      - kind: schedule
+        cronExpression: "0 12 * * *"
+        timezone: America/New_York
+  # Daily, 7pm Eastern: the day's Etsy numbers, messages and one listing fix.
+  daily-etsy-check-in:
+    triggers:
+      - kind: schedule
+        cronExpression: "0 19 * * *"
         timezone: America/New_York
 
 # Milestone labels, priority and order. The Chief of Staff works the

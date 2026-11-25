@@ -37,9 +37,17 @@ Founder (CEO, you)
 
 The team is set up to use as little as possible while still moving the business forward:
 
-- Every agent runs on Sonnet (set in `.paperclip.yaml`), with monthly caps of $10 for the Chief of Staff and $5 for each specialist.
-- Only one routine runs on a schedule: the **weekly founder brief**, Mondays 8am US Eastern. The Chief of Staff then starts the single highest-priority unblocked issue and assigns it.
-- Specialists have no timers. They wake when the Chief of Staff assigns them an issue.
+- Every agent runs on Sonnet (set in `.paperclip.yaml`), with monthly caps of $10 for the Chief of Staff and the Content & Marketing Lead, $8 for the Etsy & Sales Lead and $5 for the Product Designer (about $33 total).
+- Three routines run on a schedule (US Eastern):
+
+  | Routine | Agent | When | What you get |
+  | --- | --- | --- | --- |
+  | Weekly founder brief | Chief of Staff | Mondays 8am | The week's plan, 3 founder to-dos at most, decisions |
+  | Daily post draft | Content & Marketing Lead | Every day, noon | One TikTok package or Substack note to approve, edit or skip |
+  | Evening Etsy check-in | Etsy & Sales Lead | Every day, 7pm | Views, sales and messages, plus one title or tag fix |
+
+- Otherwise specialists have no timers. They wake when the Chief of Staff assigns them an issue.
+- The Etsy check-in needs Etsy data. Without a connected Etsy account it says so and still suggests one listing fix.
 
 ## 90-day plan
 

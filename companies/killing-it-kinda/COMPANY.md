@@ -33,7 +33,7 @@ Goal: first sales, and a weekly rhythm that runs while the founder creates.
 | M3 Voice back on: Substack restarts, TikTok launches | January |
 | M4 Next product: chosen, built and listed | February |
 
-Each milestone's issues live in the projects below, labelled M0 to M4 with their blockers set. The team runs in **lean mode**: Sonnet for every agent, about $25 a month in caps, and only the Monday brief on a schedule. The founder spends about 3 hours a week on business tasks; the rest is for creating.
+Each milestone's issues live in the projects below, labelled M0 to M4 with their blockers set. The team runs in **lean mode**: Sonnet for every agent, about $33 a month in caps, and three routines on a schedule: the Monday brief, a daily post draft and an evening Etsy check-in. The founder spends about 3 hours a week on business tasks; the rest is for creating.
 
 ## Rhythm (gentle by design)
 
@@ -43,6 +43,7 @@ Each milestone's issues live in the projects below, labelled M0 to M4 with their
 | TikTok | 2 posts per week, starting faceless (hands, objects, voiceover, text on screen) |
 | Etsy | 1 new listing or listing refresh per week |
 | Planning | Weekly brief every Monday, with a monthly look-back on the first Monday |
+| Daily | One post draft to approve, edit or skip (noon), and an Etsy check-in with one listing fix (7pm) |
 
 These are targets once M3 starts. Until then, the Etsy relaunch and the founding batch come first. Consistency beats volume. When something slips, the plan shrinks instead of the founder burning out.
 
