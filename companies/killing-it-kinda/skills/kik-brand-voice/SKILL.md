@@ -53,7 +53,7 @@ Pick from these before writing new lines. All are drafts the founder can still c
 | Birth-chart poem offer | A poem written just for them, from the sky they were born under. It's a keepsake, not a prediction. |
 | Brand board note | One look, every product: soft color, one serif, and a lot of air. |
 | Thank-you cards | Thank you for being you · with gratitude |
-| Substack post series (placeholder name) | Little Things · 01, 02, 03 … |
+| Substack post series | Little Things · 01, 02, 03 … |
 
 ### Card lines (real, from the shop)
 

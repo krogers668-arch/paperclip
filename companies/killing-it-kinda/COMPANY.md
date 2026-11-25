@@ -48,7 +48,7 @@ These are targets once M3 starts. Until then, the Etsy relaunch and the founding
 
 ## Product lines
 
-Cards and printables for the little things. All words and designs are the founder's own; AI tools only assist with layout and images. Prices are the founder's working ideas and still need approval.
+Cards and printables for the little things. All words and designs are the founder's own; AI tools only assist with layout and images. Prices were approved by the founder on 2026-11-25, set at or just under current Etsy market rates (digital cards about $2–4 each or $8–15 a bundle; printed 5-card packs about $18–30).
 
 | Etsy section | Format |
 | --- | --- |
@@ -63,33 +63,41 @@ Cards and printables for the little things. All words and designs are the founde
 
 | Product | Section | Format | Status | Price idea |
 | --- | --- | --- | --- | --- |
-| Bittersweet E-Cards, set of 8 | Digital E-Cards | 8 PNGs, 1084 x 1459 px, gold-trimmed postage stamp design: hard day, hard year, pet loss, breakup, late reply, happy belated, big win, no reason | Card art mocked up; publish first | $8 |
-| Holiday Gift Planner | Printables & Planners | 10-page US Letter PDF: gift list, budget, shopping and wrapping trackers, gift tags | Copy drafted; PDF still to finalize | $6 |
+| Bittersweet E-Cards, set of 8 | Digital E-Cards | 8 PNGs, 1084 x 1459 px, gold-trimmed postage stamp design: hard day, hard year, pet loss, breakup, late reply, happy belated, big win, no reason | Card art mocked up; publish first | $6 |
+| Holiday Gift Planner | Printables & Planners | 10-page US Letter PDF: gift list, budget, shopping and wrapping trackers, gift tags | Copy drafted; PDF still to finalize | $4 |
 | Digital iPad planner | Printables & Planners | Hyperlinked Goodnotes PDF, blank and undated or 2027: tabs for months, Job Hunt, Creative, Meals and Notes; monthly page (one creative focus, income goal, habits), weekly reset, daily pages ending in "one good thing today" | Title, description and 13 tags drafted; blank file still to build from the layout, never from the founder's filled-in copy | Founder to set after checking similar planners |
-| Poem Cards, set of 8 | Poem Cards | Printable PDF, 5 x 7 in, 8 fronts plus a lined back: anniversary, wedding, mother, friend, creative, new beginning, the one who stayed, no reason at all | Card art mocked up; poem lines still to pick | $9 |
-| Bittersweet Card Pack, 5 cards | Bittersweet Cards | Printed cardstock with envelopes, blank inside: hard day, hard year, pet, breakup, late reply | Waiting on a print sample for size, shipping and cost | $18–22 |
+| Poem Cards, set of 8 | Poem Cards | Printable PDF, 5 x 7 in, 8 fronts plus a lined back: anniversary, wedding, mother, friend, creative, new beginning, the one who stayed, no reason at all | Card art mocked up; poem lines still to pick | $7 |
+| Bittersweet Card Pack, 5 cards | Bittersweet Cards | Printed cardstock with envelopes, blank inside: hard day, hard year, pet, breakup, late reply | Waiting on a print sample for size, shipping and cost | $16–20, set after the sample so it covers cost and fees |
 
 ### Designed, not yet drafted as a listing
 
 | Product | Format | Notes |
 | --- | --- | --- |
 | Thank-you cards, printable set of 4 | Printable PDF | "Thank you for being you", "with gratitude"; Etsy thumbnail mocked up |
-| Birth-chart poem, Mini | Custom written PDF, about 16 lines from sun, moon and rising signs, about 7-day turnaround, one small revision | $35 regular; founding batch of the first 5 at $20 in exchange for an optional testimonial. Keepsake, never a prediction |
-| Birth-chart poem, Full | Custom written PDF, 30+ lines, short chart notes, print-ready art | $65 |
+| Birth-chart poem, Mini | Custom written PDF, about 16 lines from sun, moon and rising signs, about 7-day turnaround, one small revision | $29 regular; founding batch of the first 5 at $15 in exchange for an optional testimonial. Keepsake, never a prediction |
+| Birth-chart poem, Full | Custom written PDF, 30+ lines, short chart notes, print-ready art | $49 |
 
 ### Ideas in the pipeline
 
 | Idea | Format | Notes |
 | --- | --- | --- |
-| Moon and sky (astrological) planner | Procreate-illustrated monthly pages with moon phases, the moon's sign and a short reflective energy note | $5–9; a winter or new-year moon planner is the first seasonal drop. Reflection, never prediction |
-| Poem print | One poem with the founder's art | $10–25 |
+| Moon and sky (astrological) planner | Procreate-illustrated monthly pages with moon phases, the moon's sign and a short reflective energy note | $5–7; a winter or new-year moon planner is the first seasonal drop. Reflection, never prediction |
+| Poem print | One poem with the founder's art | $8–18 |
 | "Letting go" poem download | Reflective printable | Must never read as a spell or promise a result |
 | Cozy Home & Garden collection | Print-on-demand wall prints, totes, kitchen prints or tea towels, and stickers from the founder's Procreate art | About 6 prints and 4 sticker designs; the art is already ranked (see the Product Designer's instructions). Printify or Printful, still to pick. Check resolution and any texture licenses first |
 | Cozy Home Coloring Pages | Digital coloring bundle | Two line-art pages exist; needs 8 to 10 more in the same style |
 | Starter mini-zine | 8 pages: 3 poems and art | Free gift for Substack signups |
 | Custom cards | A card with the buyer's own occasion or words, by Etsy message | The shop FAQ already offers this; price per request until demand is clear |
-| Gift curation | Personal gift list for an occasion: 5–8 picks fit to a budget plus a short note-card poem | $30–50; sell directly first and check Etsy's services rules before listing there |
+| Gift curation | Personal gift list for an occasion: 5–8 picks fit to a budget plus a short note-card poem | $25–40; sell directly first and check Etsy's services rules before listing there |
 | Crochet drops | 1–2 handmade pieces a season | Priced by materials and time; highest effort per item |
+
+## Approved decisions (2026-11-25)
+
+- **Holiday Gift Planner:** finish only if the PDF is at least 80% done and can go live by about December 5; otherwise park it until next season.
+- **Printed card pack:** order one print sample now; list the printed cards after the holidays. Partner: Printful (steadier print quality); Printify if cost matters more after the sample.
+- **Poem lines:** the founder picks eight lines in one 30-minute session, from the Substack poems readers liked most.
+- **Substack series name:** "Little Things" (Little Things · 01, 02 …).
+- **iPad planner price:** set in February (M4), once the blank file exists.
 
 ## Organization
 
