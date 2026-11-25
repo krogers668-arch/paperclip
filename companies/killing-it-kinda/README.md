@@ -56,7 +56,7 @@ Founder tasks have no assignee; the Chief of Staff lists them in the Monday brie
 ## Getting started
 
 ```sh
-paperclipai company import --from companies/killing-it-kinda
+paperclipai company import companies/killing-it-kinda
 ```
 
 ## References
